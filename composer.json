@@ -14,9 +14,6 @@
   "require": {
     "php": ">=7.1"
   },
-  "require-dev": {
-    "phpunit/phpunit": "~8.0"
-  },
   "autoload": {
     "psr-4": {
       "SmsAuth\\Code\\": "code/"
